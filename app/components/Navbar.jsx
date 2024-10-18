@@ -13,7 +13,7 @@ const Navbar = () => {
       </div>
       <SlidersHorizontal className="ml-3 text-green-800 w-5 h-5" />
     </nav>
-  );
-};
+  )
+}
 
 export default Navbar;
